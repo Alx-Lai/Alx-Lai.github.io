@@ -1,0 +1,72 @@
+.profile{
+    position: fixed;
+    width: 20vw;
+    height: 100%;
+    background-color:aliceblue;
+    text-align: center;
+}
+.profile-avatar{
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+    background-color: aliceblue;
+}
+.profile-name{
+    font-size: 25px;
+    font-family: Brush Script MT, cursive;
+}
+.profile-signature{
+    font-size: 1em;
+    font-family: Papyrus, fantasy;
+}
+.profile-hr{
+    border: none;
+    border-radius: 3px;
+    height: 3px;
+    background: black;
+    width: 70%;
+    opacity: 1;
+}
+
+.profile-social{
+    width: 80%;
+}
+.profile-social a{
+    filter: grayscale(1);
+    transition: 0.7s;
+}
+.profile-social a:hover{
+    filter: grayscale(0);
+}
+#profile-mail{
+    height: 30px;
+    width: 40px;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../Images/gmail_icon.png');
+}
+#profile-github{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-image: url('../Images/github_icon.png');
+}
+#profile-fb{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-image: url('../Images/facebook_icon.png');
+}
+#profile-ig{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-image: url('../Images/ig_icon.png');
+}
