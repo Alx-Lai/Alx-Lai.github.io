@@ -1,0 +1,14 @@
+.post-container{
+    position: fixed;
+    left: 13vw;
+    width: 70vw;
+    top: 8vh;
+    height: 100%;
+    background-color: aliceblue;
+}
+.post {
+    border: 1px solid #f0f0f0;
+    border-bottom: 5px solid #c0c0c0;
+    position: relative;
+    height: 20vh;
+}
