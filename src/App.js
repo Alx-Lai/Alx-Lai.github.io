@@ -3,10 +3,13 @@ import Header from './Components/Header';
 import Profile from './Components/Profile';
 import Timeline from './Components/Timeline';
 import Post from './Components/Post'
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 function App() {
-  const [postmode, setPostmode] = useState<boolean>(false)
+  const [postmode, setPostmode] = useState(false)
+  useEffect(()=>{
+
+  },[postmode])
   return (
     <div className="App">
       {postmode?

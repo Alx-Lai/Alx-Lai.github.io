@@ -5,10 +5,35 @@
     top: 8vh;
     height: 100%;
     background-color: aliceblue;
+    font-family: 'Microsoft Jhenghei', Lantinghei SC, 'lanting', PingFang SC, Seguo UI, Microsoft Yahei, Arial;
+}
+.post-year{
+    margin-bottom: 0;
+    margin-left: 20px;
 }
 .post {
-    border: 1px solid #f0f0f0;
-    border-bottom: 5px solid #c0c0c0;
+    margin-left: 80px;
+    border-bottom: 1px solid #c0c0c0;
     position: relative;
-    height: 20vh;
+    height: 5vh;
+}
+.post-title{
+    display: inline-block;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0px;
+    transition: 0.3s;
+}
+.post-title:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.post-date{
+    text-align: right;
+    float: right;
+    color: #b0b0b0;
+    font-size: 12px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
 }
