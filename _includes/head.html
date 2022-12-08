@@ -9,4 +9,7 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   <meta name="google-site-verification" content="Lch6iSKGa6BAwbyuk90m82kOsGrwwvFPrtVHIBlXvic" />
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
 </head>
