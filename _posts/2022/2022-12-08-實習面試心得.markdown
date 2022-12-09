@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "實習面試心得"
+date:   2022-12-08 21:18:00 +0800
+tags: job
+permalink: /posts/2022/12/08/實習面試心得
+
+---
+
+
+這裡之後應該會放一些面試心得的連結，不過目前也是待補www
+
+Amazon Seed Program (大二) TBD
+
+中研院summer intern (大二) TBD
+
+AICS Intern (大三) TBD
+
+Amazon Cloud Support Intern (大三) TBD
+
+Worldquant Quantitative Research Intern (大三) TBD
+
+To Be Continued...
