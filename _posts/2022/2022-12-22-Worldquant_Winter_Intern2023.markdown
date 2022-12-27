@@ -6,10 +6,6 @@ tags: job
 permalink: /posts/2022/12/22/Worldquant_Winter_Intern2023
 ---
 
-
-
-
-
 這篇主要講 2022 面 2023 的 WorldQuant Quantitative Research Intern(Winter)  
 
 ##### [背景]
