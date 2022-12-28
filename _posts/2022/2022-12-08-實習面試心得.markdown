@@ -16,8 +16,6 @@ permalink: /posts/2022/12/08/實習面試心得
 
 AICS Intern (大三) TBD
 
-Amazon Cloud Support Intern (大三) TBD
+[AWS Cloud Support Intern + Amazon IOT blabla (大三)](/posts/2022/12/28/Amazon_Cloud_Support)
 
 [Worldquant Quantitative Research Intern (大三)](/posts/2022/12/22/Worldquant_Winter_Intern2023)
-
-To Be Continued...
