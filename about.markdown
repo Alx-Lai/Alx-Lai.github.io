@@ -67,7 +67,7 @@ Minister of Academic Department, CSIE Council
 
 **BLE(Bluetooth Low Energy) mouse Sniffing**
 
-[Report](/assets/CNS_Final.pdf)
+[Report](/docs/CNS_Final.pdf)
 
 **Style Transfer** *Pytorch* [Github](https://github.com/Alx-Lai/2022_ICG_Final)
 
