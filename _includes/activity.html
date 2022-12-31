@@ -1,0 +1,31 @@
+{% assign datas = '
+DEFCON CTF 9th place::2022__
+APCS Camp TA::2022__
+Problem Provider of TTCPC::2021::TTCPC a.k.a NTUxNTHUxNCTU Programming Contest
+'
+%}
+
+{% assign Arr = datas | split: '__' %}
+
+<table style="border: none;">
+{% for data in Arr %}
+    {% assign fields = data | split: '::' %}
+    <tr style="border:none;">
+        <td style="border:none;">
+            <b>{{ fields[0] }}</b>
+
+            {% if fields.size >= 3 %}
+                {% for field in fields offset:2 %}
+                <br/>
+                - {{ field }}
+                {% endfor %}
+            {% endif %}
+        </td>
+        <td style="border:none;text-align:right;">
+            {% if fields[1] != "" %}
+            {{ fields[1] }}
+            {% endif %}
+        </td>
+    </tr>
+{% endfor %}
+</table>

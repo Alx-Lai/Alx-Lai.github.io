@@ -1,0 +1,34 @@
+{% assign datas = '
+Computer Security TA::NTU CSIE::2022 Sep. - 2023 Jan.__
+Undergraduate Researcher::Group Fuzzbolic, NSLab, NTU CSIE::2022 Feb. - present::Survey fuzzing techniques__
+Summer Intern::IIS, Academia Sinica::2022 Jul. - 2022 Aug.__
+Data Structure & Algirithms TA::NTU CSIE::2022 Feb. - 2022 Jun.__
+NTU CSIE Sprout, System Team::NTU CSIE::2022Feb. - 2022 May.'
+%}
+
+{% assign Arr = datas | split: '__' %}
+
+<table style="border: none;">
+{% for data in Arr %}
+    {% assign fields = data | split: '::' %}
+    <tr style="border:none;">
+        <td style="border:none;" colspan="5">
+            <b>{{ fields[0] }}</b>
+            {% if fields[1] != "" %}
+            @{{ fields[1] }}
+            {% endif %}
+            {% if fields.size >= 4 %}
+                {% for field in fields offset:3 %}
+                <br/>
+                - {{ field }}
+                {% endfor %}
+            {% endif %}
+        </td>
+        <td style="border:none;text-align:right;">
+            {% if fields[2] != "" %}
+            {{ fields[2] }}
+            {% endif %}
+        </td>
+    </tr>
+{% endfor %}
+</table>

@@ -1,0 +1,47 @@
+{% assign datas = '
+Cryptoline::Ocaml::https://github.com/fmlab-iis/cryptoline::2022 Jul. - present::Verify assembly code of Cryptosystem with mathmatically-proved system__
+Learning Golang binary routine from reverse engineering of malware Chaos::Reverse Engineering::https://alx-lai.github.io/docs/malware_final.pdf::2022 Apr. - 2022 Jun.__
+HITCON online::JavaScript::https://github.com/canyugs/hitcon-online::2022 Apr. - 2022 Sep.::Bombman & Battleroyale extension__
+NTU CSIE Challenge Game::Python::https://github.com/Alx-Lai/Challenge2022::2021 Jul. - 2022 Jan.::Development of interactive game with visual effects::Response of Model and View of MVC structure__
+EDU-CTF Course Website::Golang, Semantic UI::https://edu-ctf.csie.org/::2022 Apr. - present__
+BLE(Bluetooth Low Energy) mouse Sniffing::::https://alx-lai.github.io/docs/CNS_Final.pdf::2022 Apr. - 2022 Jun.__
+Style Transfer::Pytorch::https://github.com/Alx-Lai/2022_ICG_Final::2022 May. - 2022 Jun.::Fast Adaptive to new style__
+Poker AI with Reinforcement Learning::Pytorch::https://github.com/Alx-Lai/fai_poker_ai::2022 May. - 2022 Jun.::DQN model to train poker AI::~100% win rate to monte carlo based__
+fake gartic.io::React.js::https://github.com/Alx-Lai/gartic-deploy::2021 Apr. ~ 2021 Jun.::React base gartic.io-like game__
+Discord bot::Node.js::https://github.com/Alx-Lai/Discord_bot::
+2021 Aug. ~ 2021 Aug.::Practice Web crawling to play/search Youtube Music w/o API
+'
+%}
+
+{% assign Arr = datas | split: '__' %}
+
+<table style="border: none;">
+{% for data in Arr %}
+    {% assign fields = data | split: '::' %}
+    <tr style="border:none;">
+        <td style="border:none;">
+            <b>{{ fields[0] }}</b>
+            
+            {% if fields[1] != "" %}
+            <i>{{ fields[1] }}</i>
+            {% endif %}
+            
+            {% if fields[2] != "" %}
+            <a href="{{ fields[2] }}">Link</a>
+            {% endif %}
+
+            {% if fields.size >= 5 %}
+                {% for field in fields offset:4 %}
+                <br/>
+                - {{ field }}
+                {% endfor %}
+            {% endif %}
+        </td>
+        <td style="border:none;text-align:right;">
+            {% if fields[3] != "" %}
+            {{ fields[3] }}
+            {% endif %}
+        </td>
+    </tr>
+{% endfor %}
+</table>
