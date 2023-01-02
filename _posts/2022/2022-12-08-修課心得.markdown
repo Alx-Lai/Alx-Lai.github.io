@@ -4,6 +4,7 @@ title:  "大學修課心得"
 date:   2022-12-08 14:40:04 +0800
 tags: school
 permalink: /posts/2022/12/08/修課心得
+pinned: true
 ---
 
 

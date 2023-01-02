@@ -4,7 +4,7 @@ title:  "實習面試心得"
 date:   2022-12-08 21:18:00 +0800
 tags: job
 permalink: /posts/2022/12/08/實習面試心得
-
+pinned: true
 ---
 
 
