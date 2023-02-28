@@ -30,7 +30,7 @@ layout: default
         {%- endif -%}
       {%- endfor -%}
 
-      {%- for post in site.posts -%}
+      {%- for post in site.posts limit:7 -%}
         {%- unless post.pinned -%}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
