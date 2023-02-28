@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "計算機結構"
-date:  2023-02-28 22:42:40 
+date:  2023-02-28 22:42:40 +0800
 tags: school
 permalink: /posts/2023/02/28/計算機結構
 ---

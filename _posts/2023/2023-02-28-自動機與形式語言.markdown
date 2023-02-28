@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "自動機與形式語言"
-date:  2023-02-28 22:55:00 
+date:  2023-02-28 22:55:00 +0800
 tags: school
 permalink: /posts/2023/02/28/自動機與形式語言
+
 ---
 
 甜度：⭐⭐⭐
