@@ -5,6 +5,6 @@ _site
 vendor
 add_post
 .tags
-*.markdown
-./2022-12-08-修課心得.markdown
-./2022-12-08-實習面試心得.markdown
+./*.markdown
+2022-12-08-修課心得.markdown
+2022-12-08-實習面試心得.markdown
