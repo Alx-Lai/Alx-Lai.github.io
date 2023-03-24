@@ -24,4 +24,4 @@ AICS Intern (大三) TBD
 
 Winter/Semester Intern (TBD)
 
-[Summer Intern][/posts/2023/03/23/大三Summer_Intern面試心得]
+[Summer Intern](/posts/2023/03/23/大三Summer_Intern面試心得)
