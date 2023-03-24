@@ -9,7 +9,6 @@ permalink: /posts/2023/03/23/大三Summer_Intern面試心得
 
 
 
-
 **[時空背景]**
 
 中研院 Summer Intern
@@ -34,13 +33,13 @@ permalink: /posts/2023/03/23/大三Summer_Intern面試心得
 
 
 
-#### 👋中研院 Summer Intern
+### 👋中研院 Summer Intern
 
 今年想說可以跳脫一下Security 的部份，往 ML部份走走看，雖然會投中研院主要是想要保底，不過去年的教授還不錯所以今年還是投了一下，畢竟有總比沒有好。 不過因為全書審也沒有什麼好看的
 
 
 
-#### 👋AICS Internship Program
+### 👋AICS Internship Program
 
 雖然說每個學長都沒有很推（說進去主要還是寫 frontend backend）但看著錢很多還有科技寒冬怕沒工作我還是投了
 
@@ -58,13 +57,13 @@ permalink: /posts/2023/03/23/大三Summer_Intern面試心得
 
 
 
-#### 🥶 Worldquant Quantitative Research Intern
+### 🥶 Worldquant Quantitative Research Intern
 
 被就業博覽會的 HR 直接當面打槍，因為已經投過 Winter 了所以沒有機會面 Summer .......
 
 
 
-#### ❓ NVIDIA System Software Engineer Intern
+### ❓ NVIDIA System Software Engineer Intern
 
 這間也是有名的錢很多，另外也是少數的外商，又剛好是純軟職缺，不投白不投吧！
 
@@ -86,46 +85,55 @@ permalink: /posts/2023/03/23/大三Summer_Intern面試心得
 
 
 
-#### ❌ Google SWE Intern
+### ❌ Google SWE Intern
 
 不得不說 Google 目前在台灣對軟體來說還是前幾名ㄅ
 不過很笨的把學歷填成 Bachelor of Science 而不是 Bachelor of Computer Science 害我要寄信給 HR 他才寄信跟我要 Phone Interview，看來 Google 也很看科系ㄅ==
 
 **[Phone Interview]**
+
 投完之後會跟 HR 聊聊天，然後HR中文不太好，會講一些叫你多練題目之類的幹話
 中間還穿一題二分搜的題目，差點被問倒qq，不過想一下馬上就通了
 基本上一次就是約兩關，然後時間通常不會隔太久
 
 **[Stage 1]**
+
 被問了一題二分搜的題目，然後時間很快就做出最好的了，不過空間的話好像可以稍微在優化（不過是extra space的部份），寫完之後聊個天，感覺也算聊的還算開心（？）
 
 **[Stage 2]**
+
 被問了一題沒有技術難度的數學題，只是edge case很多，然後 follow up 還有兩題==，心真的超累，在unit test很笨，最後寫出來，不過聊天時間就超過了（不過他還是跟我聊很多）
 
 **[After]**
+
 過了大概2個月之後 HR 才寄信跟我說 HeadCount 滿了，不會有下一階段（雖然我早就知道了，因為今年收超少人QQ）
 這裡勸世：***能投快點投，能面快點面***
 
-#### ❌ Appier Engineering Summer Internship
+### ❌ Appier Engineering Summer Internship
 
 算是比較偏新創，主要是作廣告推薦相關的服務，所以蠻缺前後端的。
 
 **[Phone Interview]**
+
 某天投完 HR 在一大早打給我，又我要先開始說話他才說話，超怪==
 然後聊了一下天賣了一下個資就跟我約面試了
 
 **[Stage 1]**
+
 面的看起來是一個主管（實際聊天的結果好像也是），他介紹完才說 Engineering 是說好聽的，實際上這個就是在做全端，考了一些 NA(Network Administration) 問答跟一題 SQL 語法（忘光直接大暴死，但東拼西湊還是有寫出來，只是很卡，太習慣ORM的壞處ㄇQQ），問了一些關於新創的想法，之後就結束了。
 
 **[After]**
+
 過了很久之後(約4 weeks)才寄感謝信，或許是我真的不是他們需要的即戰力或是我沒有記SQL語法太虧，只能說當經驗ㄅ
 
-#### ⭕️Intel GPU Software Development Engineer Intern
+### ⭕️Intel GPU Software Development Engineer Intern
 
 **[Phone Interview]**
+
 投完某天manager（事後才知道是 manager）寄信，結果隔天就說要聊聊天（心裡OS:X時間也太緊ㄌㄅ），裡面就聊一些自我介紹跟幾個計概等級的簡單題目，沒有很難，算很順利答完。這裡有個重點：manager 說這個職位主要是做 debug （看 ptt 說 debug 通常是很少人想做的缺QQ），但我也不太確定所以就也覺得還行（？）
 
 **[On-Site Interview]**
+
 Phone Interview 完之後就說下禮拜二約面試，面試是實體在南港辦公室，總共3個人各1小時，我因為太緊張太早到還跟 manager 先聊了30分鐘@@，中間有 Signal（總經原學完拿來用） 一波自己的期望工作氛圍或是環境，他看起來好像蠻同意的（？）
 
 第一個人（應該是 Senior Eng.）開頭拿了一個白紙上的題目，主要就是一個 C Code，然後要我分析他的結構，他想要幹麻，跟他的問題。嘛～畢竟我是 Reverse 有初步涉略的人，大概10分鐘就寫完了，然後我們就聊了20分鐘履歷，30分鐘聊天，然後他就很開心的走了（？）
@@ -136,25 +144,30 @@ Phone Interview 完之後就說下禮拜二約面試，面試是實體在南港�
 
 大概過兩天收到電話+正式 Offer，心裡想反正 Google 已經不要我了那不如可以去 Intel 試試也不錯，於是就算蠻乾脆的簽了。 整個面試流程其實超快（從有消息到收到offer < 1 week），然後還有一件事 ***能投快點投，能面快點面*** ，據說我這樣讓另一個同學直接被停止面試...，所以這才是早投的好處。
 
-#### ❌ MoBagel Data Scientist Intern
+### ❌ MoBagel Data Scientist Intern
 
 一間做 AutoML 的新創， ptt 爬文說正職薪水很少，但之前有同學實習過說還不錯所以就投了
 
 **[Online Accessment]**
+
 這大概是我寫過最久也最麻煩的OA了，有幾題選擇題，然後再來要做 data pre-process，寫random forest 然後分析結果，跟說要怎麼 improve，寫的超趕，差點就來不急交....
 
 **[Phone Interview]**
+
 過一段時間跟我約時間通話，然後賣了一波個資，然後他好像很在意我還有投哪間，是我少數旋轉不了的 HR
 
 **[On-Site Interview]**
+
 之後就約實體面試，然後是一個看起來很年輕的工程師當面試官，問的問題從履歷一個個問起，但好像沒怎麼聽過 CV(Computer Vision)跟 NLP(他好像只聽過Bert)，也沒聽過 CTF，感覺頻率沒有很對到，然後就問一些情境題，但是都說得很模糊，我全部分析完之後他也說不錯，不過又面無表情的繼續問，來來回回總共一個小時，最後因為我覺得講話很累就沒有多問什麼問題了。
 
 **[After]**
+
 過 0.5 week 收到感謝信，感覺可能是我們頻率沒有對到ㄅ，不過我覺得當練面試的體驗來說還算不錯，缺點是有點遠就是了（有興趣可以google一下）
 
-#### 🔺KKCompany Tomorrow Lab Program
+### 🔺KKCompany Tomorrow Lab Program
 
 **[Online Accessment]**
+
 還算蠻簡單的，兩題 easy 一題 easy~medium 一題 medium 大約花 20 分鐘寫完。
 
 之後因為收到其他 offer 然後他還沒通知我，不過想想我對 KK 也不太了解之後就拒絕好了xd
