@@ -31,8 +31,6 @@ facebook_username: alex.lai.9404
 theme: minima
 plugins:
   - jekyll-feed
-sitemap:
-  path: sitemap.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default.
