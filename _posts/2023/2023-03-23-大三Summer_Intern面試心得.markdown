@@ -173,11 +173,22 @@ Phone Interview 完之後就說下禮拜二約面試，面試是實體在南港�
 
 之後因為收到其他 offer 然後他還沒通知我，不過想想我對 KK 也不太了解之後就拒絕好了xd
 
-#### 🔺一些還沒寄信招募的
+Jun. 30, 2023 補上一些後續結果
+### Kronos Summer Intern
 
-- Yahoo SWE Summer Intern
-- Dell
-- HP
-- HPE
-- Kronos Infra team
-- LINE Tech Fresh
+跟去年比多修了一門邦鋒 OOP
+
+**[Online Accessment]**
+
+也蠻簡單的，唯一需要注意的是需要一些 C++ OOP 的 call 的順序跟觀念（因為 Kronos 也都是用 C++ 開發），一共 3 題，easy\*1 medium\*2，另外就是C++ 觀念題 \*~10
+
+**[Group Interview]**
+
+好像每年都不一樣，之前是玩類似智慧鐵人的遊戲，今年是打辯論，據有上的同學說他們有問面試官，面試關說他也不知道評分標準，就單純 HR 在玩，就陪他們玩，然後，然後我就被刷掉了...???????
+
+
+❌ Yahoo SWE Summer Intern
+❌ Dell
+❌ HP
+❌ HPE
+❌ LINE Tech Fresh

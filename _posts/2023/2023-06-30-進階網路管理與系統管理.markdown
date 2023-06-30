@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "進階網路管理與系統管理"
+date:  2023-06-30 14:45:02 +0800
+tags: school
+permalink: /posts/2023/06/30/進階網路管理與系統管理
+---
+
+
+甜度：⭐
+涼度：⭐⭐
+整體推薦：⭐⭐
+**[Overview]**
+
+就是 NASA 3階，沒看過 1階的左轉[這裡](/posts/2023/01/02/網路管理與系統管理)
+
+**[Loading]**
+
+基本上 2階 時會被莫名亂分組組別名單如下:
+NA
+- Wired
+- Wireless
+- DNS
+- Firewall
+SA
+- WorkStation
+- Web
+- Mail
+- PC
+3階的時候就是做該組的維護以及 Project ，我們這組做的是維護 NAS 並加上 Monitor，還有定期備份的 script，然後每週的週會以及月會是選擇性參加，最後會有 demo 時間，然後評分標準未知.....，上了賊船就自求多福吧
+
